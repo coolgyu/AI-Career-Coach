@@ -1,17 +1,26 @@
+# AI Career Coach
 
+AI-powered career development platform to help users improve resumes, prepare for interviews, and gain industry insights.
 
-### Make sure to create a `.env` file with following variables -
+---
 
-```
-DATABASE_URL=
+## Features
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
+- AI-based career guidance  
+- Resume builder with AI assistance  
+- Cover letter generator  
+- Interview preparation with quizzes & feedback  
+- Industry insights dashboard  
+- User authentication & profile management  
 
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+---
 
-GEMINI_API_KEY= 
-```
+---
+
+## Getting Started
+
+```bash
+git clone https://github.com/coolgyu/AI-Career-Coach.git
+cd ai-career-coach
+npm install
+npm run dev
