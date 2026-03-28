@@ -95,6 +95,3 @@ Built with modern web technologies and production-grade architecture, this app c
 
 ---
 
-## 📂 Project Structure
-
-The project follows a **scalable, production-ready architecture**:
