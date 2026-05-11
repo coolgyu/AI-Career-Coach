@@ -1,4 +1,3 @@
-<img width="1805" height="688" alt="image" src="https://github.com/user-attachments/assets/964866e1-b659-47d4-921b-ff87b11b40f3" />
 
 # 🚀 AI Career Coach
 
